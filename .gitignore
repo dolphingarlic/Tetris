@@ -1,2 +1,3 @@
-.netbeans_*
-_netbeans_*
+build/*
+nbproject/*
+/dist/
