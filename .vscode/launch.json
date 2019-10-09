@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TetrisLauncher",
+            "request": "launch",
+            "mainClass": "tetris.TetrisLauncher"
+        }
+    ]
+}
